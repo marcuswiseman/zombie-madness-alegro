@@ -1,0 +1,1021 @@
+# depslib dependency file v1.0
+1331511326 source:d:\programming stuff\zombiemadness (rebuild)\truecurses.cpp
+	"TrueCurses.h"
+	<allegro.h>
+	<iostream>
+	<math.h>
+	<ctime>
+	<sstream>
+	<string>
+
+1331548464 d:\programming stuff\zombiemadness (rebuild)\truecurses.h
+	<allegro.h>
+	<winalleg.h>
+	<wchar.h>
+	<stdarg.h>
+	<stddef.h>
+	<iostream>
+	<math.h>
+	<stdio.h>
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro.h
+	"allegro/base.h"
+	"allegro/system.h"
+	"allegro/debug.h"
+	"allegro/unicode.h"
+	"allegro/mouse.h"
+	"allegro/timer.h"
+	"allegro/keyboard.h"
+	"allegro/joystick.h"
+	"allegro/palette.h"
+	"allegro/gfx.h"
+	"allegro/color.h"
+	"allegro/draw.h"
+	"allegro/rle.h"
+	"allegro/compiled.h"
+	"allegro/text.h"
+	"allegro/font.h"
+	"allegro/fli.h"
+	"allegro/config.h"
+	"allegro/gui.h"
+	"allegro/sound.h"
+	"allegro/file.h"
+	"allegro/lzss.h"
+	"allegro/datafile.h"
+	"allegro/fixed.h"
+	"allegro/fmaths.h"
+	"allegro/matrix.h"
+	"allegro/quat.h"
+	"allegro/3d.h"
+	"allegro/3dmaths.h"
+	"allegro/alcompat.h"
+	"allegro/fix.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\base.h
+	<errno.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"internal/alconfig.h"
+
+1107041724 d:\programming stuff\dev-cpp\include\errno.h
+	<_mingw.h>
+
+1107041724 d:\programming stuff\dev-cpp\include\_mingw.h
+
+1107041724 d:\programming stuff\dev-cpp\include\limits.h
+	<_mingw.h>
+
+1107041724 d:\programming stuff\dev-cpp\include\stdarg.h
+
+1107041724 d:\programming stuff\dev-cpp\include\stddef.h
+
+1107041724 d:\programming stuff\dev-cpp\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1107041724 d:\programming stuff\dev-cpp\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1107041724 d:\programming stuff\dev-cpp\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\internal\alconfig.h
+	"allegro/platform/alplatf.h"
+	"allegro/platform/aldjgpp.h"
+	"allegro/platform/alwatcom.h"
+	"allegro/platform/almngw32.h"
+	"allegro/platform/aldmc.h"
+	"allegro/platform/albcc32.h"
+	"allegro/platform/almsvc.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/almaccfg.h"
+	"allegro/platform/alosxcfg.h"
+	"allegro/platform/alqnxcfg.h"
+	"allegro/platform/alucfg.h"
+	"allegro/platform/alpspcfg.h"
+	"allegro/platform/astdint.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\platform\alplatf.h
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\platform\aldjgpp.h
+	<pc.h>
+	<dir.h>
+	<dpmi.h>
+	<go32.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/farptr.h>
+
+1107041724 d:\programming stuff\dev-cpp\include\dir.h
+	<io.h>
+
+1107041724 d:\programming stuff\dev-cpp\include\io.h
+	<_mingw.h>
+	<sys/types.h>
+	<stdint.h>
+
+1107041724 d:\programming stuff\dev-cpp\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1107041724 d:\programming stuff\dev-cpp\include\stdint.h
+	<stddef.h>
+
+1107041724 d:\programming stuff\dev-cpp\include\fcntl.h
+	<_mingw.h>
+	<io.h>
+
+1107041724 d:\programming stuff\dev-cpp\include\unistd.h
+	<io.h>
+	<process.h>
+	<getopt.h>
+
+1107041724 d:\programming stuff\dev-cpp\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+
+1107041724 d:\programming stuff\dev-cpp\include\getopt.h
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1107041724 d:\programming stuff\dev-cpp\include\conio.h
+	<_mingw.h>
+
+1107041724 d:\programming stuff\dev-cpp\include\direct.h
+	<_mingw.h>
+	<stddef.h>
+	<io.h>
+
+1107041724 d:\programming stuff\dev-cpp\include\malloc.h
+	<_mingw.h>
+	<stdlib.h>
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\platform\albecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\platform\almaccfg.h
+	<MacTypes.h>
+	<QuickDraw.h>
+	<FCntl.h>
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\platform\alosxcfg.h
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\platform\alqnxcfg.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+
+1107041724 d:\programming stuff\dev-cpp\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"allegro/platform/alunixac.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\platform\alpspcfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1107041724 d:\programming stuff\dev-cpp\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\system.h
+	"base.h"
+	"unicode.h"
+	"config.h"
+	"inline/system.inl"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\unicode.h
+	"base.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\config.h
+	"base.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\inline\system.inl
+	"allegro/debug.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\debug.h
+	"base.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\mouse.h
+	"base.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\timer.h
+	"base.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\keyboard.h
+	"base.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\joystick.h
+	"base.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\palette.h
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\gfx.h
+	"3d.h"
+	"base.h"
+	"fixed.h"
+	"inline/gfx.inl"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\3d.h
+	"base.h"
+	"fixed.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\fixed.h
+	"base.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\inline\gfx.inl
+	"allegro/debug.h"
+	"asm.inl"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\inline\asm.inl
+	"allegro/platform/al386gcc.h"
+	"allegro/platform/al386vc.h"
+	"allegro/platform/al386wat.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\platform\al386gcc.h
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\platform\al386vc.h
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\platform\al386wat.h
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\color.h
+	"base.h"
+	"palette.h"
+	"inline/color.inl"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\inline\color.inl
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\draw.h
+	"base.h"
+	"fixed.h"
+	"gfx.h"
+	"inline/draw.inl"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\inline\draw.inl
+	"allegro/debug.h"
+	"allegro/3d.h"
+	"gfx.inl"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\rle.h
+	"base.h"
+	"gfx.h"
+	"inline/rle.inl"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\inline\rle.inl
+	"allegro/debug.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\compiled.h
+	"base.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\text.h
+	"base.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\font.h
+	"base.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\fli.h
+	"base.h"
+	"palette.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\gui.h
+	"base.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\sound.h
+	"base.h"
+	"digi.h"
+	"stream.h"
+	"midi.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\digi.h
+	"base.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\stream.h
+	"base.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\midi.h
+	"base.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\file.h
+	"base.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\lzss.h
+	"base.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\datafile.h
+	"base.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\fmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/fmaths.inl"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\inline\fmaths.inl
+	"asm.inl"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\matrix.h
+	"base.h"
+	"fixed.h"
+	"fmaths.h"
+	"inline/matrix.inl"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\inline\matrix.inl
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\quat.h
+	"base.h"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\3dmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/3dmaths.inl"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\inline\3dmaths.inl
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\alcompat.h
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\fix.h
+	"fixed.h"
+	"fmaths.h"
+	"inline/fix.inl"
+
+1316394522 d:\programming stuff\dev-cpp\include\allegro\inline\fix.inl
+
+1316394522 d:\programming stuff\dev-cpp\include\winalleg.h
+	<afxwin.h>
+	<windows.h>
+
+1107045320 d:\programming stuff\dev-cpp\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1107045320 d:\programming stuff\dev-cpp\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1107045320 d:\programming stuff\dev-cpp\include\winuser.h
+
+1107045320 d:\programming stuff\dev-cpp\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1107045320 d:\programming stuff\dev-cpp\include\winerror.h
+
+1107045320 d:\programming stuff\dev-cpp\include\basetsd.h
+
+1107045320 d:\programming stuff\dev-cpp\include\pshpack4.h
+
+1107045320 d:\programming stuff\dev-cpp\include\poppack.h
+
+1107045320 d:\programming stuff\dev-cpp\include\winver.h
+
+1107045320 d:\programming stuff\dev-cpp\include\dde.h
+
+1107045320 d:\programming stuff\dev-cpp\include\dlgs.h
+
+1107045320 d:\programming stuff\dev-cpp\include\commctrl.h
+	<prsht.h>
+
+1107045320 d:\programming stuff\dev-cpp\include\prsht.h
+
+1107045320 d:\programming stuff\dev-cpp\include\windef.h
+	<winnt.h>
+
+1107045320 d:\programming stuff\dev-cpp\include\wincon.h
+
+1107045320 d:\programming stuff\dev-cpp\include\winbase.h
+
+1107045320 d:\programming stuff\dev-cpp\include\wingdi.h
+
+1107045320 d:\programming stuff\dev-cpp\include\winnls.h
+
+1107045320 d:\programming stuff\dev-cpp\include\winnetwk.h
+
+1107045320 d:\programming stuff\dev-cpp\include\winreg.h
+
+1107045320 d:\programming stuff\dev-cpp\include\winsvc.h
+
+1107045320 d:\programming stuff\dev-cpp\include\cderr.h
+
+1107045320 d:\programming stuff\dev-cpp\include\ddeml.h
+
+1107045320 d:\programming stuff\dev-cpp\include\imm.h
+
+1107045320 d:\programming stuff\dev-cpp\include\lzexpand.h
+
+1107045320 d:\programming stuff\dev-cpp\include\mmsystem.h
+
+1107045320 d:\programming stuff\dev-cpp\include\nb30.h
+
+1107045320 d:\programming stuff\dev-cpp\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1107045320 d:\programming stuff\dev-cpp\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1107045320 d:\programming stuff\dev-cpp\include\basetyps.h
+
+1107045320 d:\programming stuff\dev-cpp\include\rpcdcep.h
+
+1107045320 d:\programming stuff\dev-cpp\include\rpcnsi.h
+
+1107045320 d:\programming stuff\dev-cpp\include\rpcnterr.h
+
+1107045324 d:\programming stuff\dev-cpp\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1107045320 d:\programming stuff\dev-cpp\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1107045320 d:\programming stuff\dev-cpp\include\pshpack2.h
+
+1107045320 d:\programming stuff\dev-cpp\include\winperf.h
+
+1107045320 d:\programming stuff\dev-cpp\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1107045320 d:\programming stuff\dev-cpp\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1107045320 d:\programming stuff\dev-cpp\include\objfwd.h
+	<basetyps.h>
+
+1107045320 d:\programming stuff\dev-cpp\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1107045320 d:\programming stuff\dev-cpp\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1107045320 d:\programming stuff\dev-cpp\include\rpcnsip.h
+
+1107045320 d:\programming stuff\dev-cpp\include\winspool.h
+
+1107045320 d:\programming stuff\dev-cpp\include\winsock2.h
+	<windows.h>
+
+1107045320 d:\programming stuff\dev-cpp\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1107045320 d:\programming stuff\dev-cpp\include\mswsock.h
+
+1107045320 d:\programming stuff\dev-cpp\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1107045320 d:\programming stuff\dev-cpp\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1107045320 d:\programming stuff\dev-cpp\include\objidl.h
+	<objfwd.h>
+
+1107045320 d:\programming stuff\dev-cpp\include\cguid.h
+
+1107045320 d:\programming stuff\dev-cpp\include\olectlid.h
+
+1107045320 d:\programming stuff\dev-cpp\include\oleauto.h
+	<oaidl.h>
+
+1107045320 d:\programming stuff\dev-cpp\include\oaidl.h
+
+1107045320 d:\programming stuff\dev-cpp\include\oleidl.h
+	<objfwd.h>
+
+1107045324 d:\programming stuff\dev-cpp\include\wchar.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<wctype.h>
+	<sys/types.h>
+	<stdint.h>
+
+1107045324 d:\programming stuff\dev-cpp\include\wctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1107041724 d:\programming stuff\dev-cpp\include\math.h
+	<_mingw.h>
+
+1379078274 source:d:\programming stuff\zombiemadness (rebuild)\main.cpp
+	<iostream>
+	<allegro.h>
+	<math.h>
+	<time.h>
+	"PathFinder.h"
+
+1377874109 d:\programming stuff\zombiemadness (rebuild)\astarlibrary.h
+	<allegro.h>
+
+1377966746 d:\programming stuff\zombiemadness (rebuild)\pathfinder.h
+	<allegro.h>
+
+1373475968 d:\programming stuff\dev-cpp\include\allegro
+
+1405004962 source:f:\programming stuff\zombiemadness (rebuild)\main.cpp
+	<iostream>
+	<allegro.h>
+	<math.h>
+	<time.h>
+	<string>
+	<sstream>
+	"PathFinder.h"
+	"maps.cpp"
+	"inventory.cpp"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro.h
+	"allegro/base.h"
+	"allegro/system.h"
+	"allegro/debug.h"
+	"allegro/unicode.h"
+	"allegro/mouse.h"
+	"allegro/timer.h"
+	"allegro/keyboard.h"
+	"allegro/joystick.h"
+	"allegro/palette.h"
+	"allegro/gfx.h"
+	"allegro/color.h"
+	"allegro/draw.h"
+	"allegro/rle.h"
+	"allegro/compiled.h"
+	"allegro/text.h"
+	"allegro/font.h"
+	"allegro/fli.h"
+	"allegro/config.h"
+	"allegro/gui.h"
+	"allegro/sound.h"
+	"allegro/file.h"
+	"allegro/lzss.h"
+	"allegro/datafile.h"
+	"allegro/fixed.h"
+	"allegro/fmaths.h"
+	"allegro/matrix.h"
+	"allegro/quat.h"
+	"allegro/3d.h"
+	"allegro/3dmaths.h"
+	"allegro/alcompat.h"
+	"allegro/fix.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\base.h
+	<errno.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"internal/alconfig.h"
+
+1107045324 f:\programming stuff\dev-cpp\include\errno.h
+	<_mingw.h>
+
+1107045324 f:\programming stuff\dev-cpp\include\_mingw.h
+
+1107045324 f:\programming stuff\dev-cpp\include\limits.h
+	<_mingw.h>
+
+1107045324 f:\programming stuff\dev-cpp\include\stdarg.h
+
+1107045324 f:\programming stuff\dev-cpp\include\stddef.h
+
+1107045324 f:\programming stuff\dev-cpp\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1107045324 f:\programming stuff\dev-cpp\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1107045324 f:\programming stuff\dev-cpp\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\internal\alconfig.h
+	"allegro/platform/alplatf.h"
+	"allegro/platform/aldjgpp.h"
+	"allegro/platform/alwatcom.h"
+	"allegro/platform/almngw32.h"
+	"allegro/platform/aldmc.h"
+	"allegro/platform/albcc32.h"
+	"allegro/platform/almsvc.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/almaccfg.h"
+	"allegro/platform/alosxcfg.h"
+	"allegro/platform/alqnxcfg.h"
+	"allegro/platform/alucfg.h"
+	"allegro/platform/alpspcfg.h"
+	"allegro/platform/astdint.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\platform\alplatf.h
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\platform\aldjgpp.h
+	<pc.h>
+	<dir.h>
+	<dpmi.h>
+	<go32.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/farptr.h>
+
+1107045324 f:\programming stuff\dev-cpp\include\dir.h
+	<io.h>
+
+1107045324 f:\programming stuff\dev-cpp\include\io.h
+	<_mingw.h>
+	<sys/types.h>
+	<stdint.h>
+
+1107045324 f:\programming stuff\dev-cpp\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1107045324 f:\programming stuff\dev-cpp\include\stdint.h
+	<stddef.h>
+
+1107045324 f:\programming stuff\dev-cpp\include\fcntl.h
+	<_mingw.h>
+	<io.h>
+
+1107045324 f:\programming stuff\dev-cpp\include\unistd.h
+	<io.h>
+	<process.h>
+	<getopt.h>
+
+1107045324 f:\programming stuff\dev-cpp\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+
+1107045324 f:\programming stuff\dev-cpp\include\getopt.h
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1107045324 f:\programming stuff\dev-cpp\include\conio.h
+	<_mingw.h>
+
+1107045324 f:\programming stuff\dev-cpp\include\direct.h
+	<_mingw.h>
+	<stddef.h>
+	<io.h>
+
+1107045324 f:\programming stuff\dev-cpp\include\malloc.h
+	<_mingw.h>
+	<stdlib.h>
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\platform\albecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\platform\almaccfg.h
+	<MacTypes.h>
+	<QuickDraw.h>
+	<FCntl.h>
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\platform\alosxcfg.h
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\platform\alqnxcfg.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+
+1107045324 f:\programming stuff\dev-cpp\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"allegro/platform/alunixac.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\platform\alpspcfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1107045324 f:\programming stuff\dev-cpp\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\system.h
+	"base.h"
+	"unicode.h"
+	"config.h"
+	"inline/system.inl"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\unicode.h
+	"base.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\config.h
+	"base.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\inline\system.inl
+	"allegro/debug.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\debug.h
+	"base.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\mouse.h
+	"base.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\timer.h
+	"base.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\keyboard.h
+	"base.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\joystick.h
+	"base.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\palette.h
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\gfx.h
+	"3d.h"
+	"base.h"
+	"fixed.h"
+	"inline/gfx.inl"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\3d.h
+	"base.h"
+	"fixed.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\fixed.h
+	"base.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\inline\gfx.inl
+	"allegro/debug.h"
+	"asm.inl"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\inline\asm.inl
+	"allegro/platform/al386gcc.h"
+	"allegro/platform/al386vc.h"
+	"allegro/platform/al386wat.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\platform\al386gcc.h
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\platform\al386vc.h
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\platform\al386wat.h
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\color.h
+	"base.h"
+	"palette.h"
+	"inline/color.inl"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\inline\color.inl
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\draw.h
+	"base.h"
+	"fixed.h"
+	"gfx.h"
+	"inline/draw.inl"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\inline\draw.inl
+	"allegro/debug.h"
+	"allegro/3d.h"
+	"gfx.inl"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\rle.h
+	"base.h"
+	"gfx.h"
+	"inline/rle.inl"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\inline\rle.inl
+	"allegro/debug.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\compiled.h
+	"base.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\text.h
+	"base.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\font.h
+	"base.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\fli.h
+	"base.h"
+	"palette.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\gui.h
+	"base.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\sound.h
+	"base.h"
+	"digi.h"
+	"stream.h"
+	"midi.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\digi.h
+	"base.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\stream.h
+	"base.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\midi.h
+	"base.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\file.h
+	"base.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\lzss.h
+	"base.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\datafile.h
+	"base.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\fmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/fmaths.inl"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\inline\fmaths.inl
+	"asm.inl"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\matrix.h
+	"base.h"
+	"fixed.h"
+	"fmaths.h"
+	"inline/matrix.inl"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\inline\matrix.inl
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\quat.h
+	"base.h"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\3dmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/3dmaths.inl"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\inline\3dmaths.inl
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\alcompat.h
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\fix.h
+	"fixed.h"
+	"fmaths.h"
+	"inline/fix.inl"
+
+1316394522 f:\programming stuff\dev-cpp\include\allegro\inline\fix.inl
+
+1107045324 f:\programming stuff\dev-cpp\include\math.h
+	<_mingw.h>
+
+1377966746 f:\programming stuff\zombiemadness (rebuild)\pathfinder.h
+	<allegro.h>
+
+1404385030 f:\programming stuff\zombiemadness (rebuild)\maps.cpp
+
+1405004126 f:\programming stuff\zombiemadness (rebuild)\inventory.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<stdlib.h>
+
+1405004126 source:f:\programming stuff\zombiemadness (rebuild)\inventory.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<stdlib.h>
+
